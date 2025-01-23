@@ -61,4 +61,4 @@ The project includes an interactive dashboard for visualizing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/funnel-analysis-datatech.git
+   git clone https://github.com/itskshitija/DataTech-Funnel-Analysis.git
