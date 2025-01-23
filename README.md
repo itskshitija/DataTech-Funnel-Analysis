@@ -58,9 +58,7 @@ The project includes an interactive dashboard for visualizing:
 
 ![image](https://github.com/user-attachments/assets/7400b877-b9f6-439d-901c-3b1950df8f9e)
 
+## 📬 Contact
+**Author:** Kshitija Chilbule
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/itskshitija/DataTech-Funnel-Analysis.git
+For inquiries, email: kshitijachilbule2@gmail.com
