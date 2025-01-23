@@ -58,7 +58,8 @@ The project includes an interactive dashboard for visualizing:
 
 ![image](https://github.com/user-attachments/assets/7400b877-b9f6-439d-901c-3b1950df8f9e)
 
-## 📬 Contact
-**Author:** Kshitija Chilbule
-
-For inquiries, email: kshitijachilbule2@gmail.com
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
