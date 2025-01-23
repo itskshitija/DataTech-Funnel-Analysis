@@ -2,6 +2,8 @@
 
 Welcome to the **Funnel Analysis - DataTech** project! This analysis provides valuable insights into the student enrollment and course completion journey for an edtech company, DataTech. The project aims to identify critical dropout points and improve course structures to enhance student retention and completion rates.
 
+# 📍Access Google Sheet for the comprehensive overview of the project [Here](https://docs.google.com/spreadsheets/d/1kvIDoIcxH4UvdHC95g1uBzZFGs39OkDnWxlQ2R-Z9kk/edit?gid=2053471225#gid=2053471225)
+
 ## 📝 Project Overview
 
 ### Objective
